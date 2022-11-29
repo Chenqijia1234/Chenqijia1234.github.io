@@ -5,6 +5,7 @@ author: Songzi Vong
 tags:
 - 介绍
 - Jekyll
+category: 公告
 ---
 
 The jekyll blog system was running.
