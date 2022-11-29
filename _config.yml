@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 禾声潇潇
+description: C站陈祺嘉的博客
+url: https://Chenqijia1234.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -28,9 +28,6 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
   name: Songzi Vong
@@ -54,7 +51,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 陈祺嘉
+  url: https://github.com/Chenqijia1234/
+  email: 86812582@qq.com
 exclude: [vendor]
+
