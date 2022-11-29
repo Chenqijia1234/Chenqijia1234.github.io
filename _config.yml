@@ -30,10 +30,9 @@ exclude:
 # Optimize Jekyl SEO Tag
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 陈祺嘉
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/Chenqijia1234
 google_site_verification: xxxxx
 lang: zh
 
