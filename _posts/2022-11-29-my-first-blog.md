@@ -8,4 +8,4 @@ tags:
 category: 公告
 ---
 
-The jekyll blog system was running.
+我的博客网站建立了！此网站基于jekyll.
